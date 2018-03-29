@@ -1,4 +1,4 @@
-# You must create a script that takes a formated json file and represent it
+# You must create a script that takes a formatted .json file and represent it
 # as a bar chart:
 # $ ruby app.rb cars.json
 #
@@ -16,5 +16,5 @@
 # - The chart can be shown on the terminal or saved in a .txt file: if the argument --file is present it must output the chart only in the specified file declared on the argument i.e. --file=chart.csv
 # $ ruby app.rb cars.json --file=chart.txt
 #
-# - We like it in a OOP way. May be the app is used in an internal service so it must be reusable
+# -We value OOP concepts and principles. Maybe the app will be used as an internal service, so it must be reusable.
 #
