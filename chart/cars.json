@@ -1,0 +1,25 @@
+{
+  "name": "Car sales last month",
+  "elements": [
+    {
+      "name": "Toyota",
+      "value": 90000
+    },
+    {
+      "name": "Audi",
+      "value": 115089
+    },
+    {
+      "name": "Kia",
+      "value": 50090
+    },
+    {
+      "name": "Ford",
+      "value": 120000
+    },
+    {
+      "name": "BMW",
+      "value": 12000
+    }
+  ]
+}

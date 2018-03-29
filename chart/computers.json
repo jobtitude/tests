@@ -1,0 +1,25 @@
+{
+  "name": "Computer sales by year",
+  "elements": [
+    {
+      "name": "HP",
+      "value": 1233545
+    },
+    {
+      "name": "Lenovo",
+      "value": 9823948
+    },
+    {
+      "name": "Apple",
+      "value": 9937234
+    },
+    {
+      "name": "Dell",
+      "value": 838274
+    },
+    {
+      "name": "Acer",
+      "value": 452000
+    }
+  ]
+}
